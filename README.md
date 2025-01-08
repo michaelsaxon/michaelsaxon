@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about visualizations with d3.js
 - 📫 See more on my website [saxon.me](https://saxon.me/)
 
+Lol my top language is HTML...mainly because I have a very elaborate pages website
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsaxon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
